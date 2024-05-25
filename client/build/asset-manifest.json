@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcae55f3.css",
+    "main.js": "/static/js/main.c27f391a.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/me.png": "/static/media/me.1300ed3d9df505f7a50a.png",
+    "static/media/contactus.png": "/static/media/contactus.426c0aacdc2fb9fe7f83.png",
+    "static/media/nitplogo.png": "/static/media/nitplogo.a0e665719158201f3220.png",
+    "static/media/background.jpg": "/static/media/background.7e36a9ea3e5fbd38ad65.jpg",
+    "static/media/privacypolicy.png": "/static/media/privacypolicy.e8d5c9f58c28f87d5378.png",
+    "static/media/paypalpng.png": "/static/media/paypalpng.2558444b2cc334048ff4.png",
+    "static/media/paypal.svg": "/static/media/paypal.e01b962f571e1e88810f12564b369f19.svg",
+    "index.html": "/index.html",
+    "main.dcae55f3.css.map": "/static/css/main.dcae55f3.css.map",
+    "main.c27f391a.js.map": "/static/js/main.c27f391a.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcae55f3.css",
+    "static/js/main.c27f391a.js"
+  ]
+}
